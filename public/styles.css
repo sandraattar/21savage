@@ -1,0 +1,21 @@
+body{
+  background-image: url('http://www.psdgraphics.com/file/beer-texture.jpg');
+  background-position: center;
+  background-size: cover;
+}
+.box{
+  height: 80vh;
+  width: 70%;
+  text-align: center;
+  color: #845d02;
+  background-color: #e7c43d;
+  margin-left: 15%;
+  margin-top: 85px;
+  font-size: 1.5em;
+}
+li {
+  list-style: none;
+}
+span {
+  color: purple;
+}
