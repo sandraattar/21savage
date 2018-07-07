@@ -1,4 +1,4 @@
-## 21savage
+## 21Savage Fan Page
 
 This app allows users to post a fan message onto 21Savage fan page. Each message can upvoted, downvoted or removed. 
 
